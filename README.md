@@ -1,8 +1,9 @@
 # SEN-401
 Software engineering assignment 
-// Lawal Rizqoh.O.
-// FUO/23/0266
-// 1.Repository
+Lawal Rizqoh.O.
+FUO/23/0266
+
+1.Repository
 A repository is a storage location where your project's files, folders, and revision history are kept. A repository can be stored locally on your computer or remotely on platforms like GitHub
 
 2.Commit
@@ -16,5 +17,7 @@ It allows developers to work on new features or fix bugs without affecting the m
 4.Merge
 Merge means combining changes from one branch into another.
 It is commonly used when a developer finishes working on a feature and wants to add it to the main project
-// 5.Version Control
+
+
+5.Version Control
 Version control is a system that tracks changes made to files over time
